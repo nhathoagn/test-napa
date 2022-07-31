@@ -1,0 +1,210 @@
+.btn-revert{
+
+    margin-right: 15px;
+    margin-left: 854px;
+    background: #F1B44C 0% 0% no-repeat padding-box ;
+    width: 107px;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 6px #00000029;
+}
+.group-btn .btn-add-new .btn-add{
+    margin-left: 15px;
+    background: #064EBC 0% 0% no-repeat padding-box ;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 10px;
+    opacity: 1;
+    width: 107px;
+    height: 50px;
+}
+.btn-add span{
+    text-align: left;
+    font: normal normal bold 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+.btn-revert p{
+    padding: 15px 30px 15px 31px;
+    color: white;
+    letter-spacing: 0px;
+    font: normal normal bold 15px/20px Segoe UI;
+    text-align: left;
+}
+.btn-add-new {
+    /*margin-left: 15px;*/
+    /*background: #064EBC 0% 0% no-repeat padding-box;*/
+    /*box-shadow: 0px 3px 6px #00000029;*/
+    /*border-radius: 10px;*/
+    /*opacity: 1;*/
+    /*width: 107px;*/
+    /*height: 50px;*/
+}
+/*.btn-add-new p{*/
+/*    text-align: left;*/
+/*    font: normal normal bold 15px/20px Segoe UI;*/
+/*    letter-spacing: 0px;*/
+/*    color: #FFFFFF;*/
+/*    opacity: 1;*/
+/*    padding: 15px 19px 15px 23px;*/
+/*}*/
+.input{
+    width: 395px;
+    height: 50px;
+    margin-left: 25px;
+}
+.ant-input-affix-wrapper{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 10px!important;
+    opacity: 1;
+    height: 50px;
+}
+.ant-input{
+    text-align: left;
+    font: normal normal bold 15px/20px Segoe UI;
+    letter-spacing: 0px;
+    color: #BDBDBD;
+    opacity: 1;
+    border-radius: 10px;
+}
+.group-btn{
+    display: flex;
+}
+.ant-modal-title{
+    text-align: center;
+    font: normal normal bold 20px/27px Segoe UI !important;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.post-modal-avatar{
+    display: flex;
+}
+.post-modal-avatar p{
+    font: normal normal normal 16px/21px Segoe UI;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.post-modal-avatar span{
+    text-align: left;
+    font: normal normal normal 16px/21px Segoe UI;
+    letter-spacing: 0px;
+    color: #F3115E;
+    margin-left: 2px;
+}
+.post-modal-upload{
+    margin-left: 62px;
+}
+.post-modal-name{
+    display: flex;
+    margin-top: 27px;
+}
+.post-modal-name p{
+    text-align: left;
+    font: normal normal normal 16px/21px Segoe UI;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+.post-modal-name span{
+    text-align: left;
+    font: normal normal normal 16px/21px Segoe UI;
+    letter-spacing: 0px;
+    color: #F3115E;
+    margin-left: 2px;
+}
+.post-modal-name-input{
+    margin-left: 49px !important;
+    width: 322px !important;
+    height: 35px !important;
+}
+.post-modal-description{
+    display: flex;
+    margin-top: 27px;
+}
+.post-modal-description p{
+    text-align: left;
+    font: normal normal normal 16px/21px Segoe UI;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+.post-modal-description span{
+    text-align: left;
+    font: normal normal normal 16px/21px Segoe UI;
+    letter-spacing: 0px;
+    color: #F3115E;
+}
+.post-modal-description-textarea{
+    width: 322px !important;
+    height: 35px !important;
+    margin-left: 15px !important;
+}
+.post-modal-image{
+    margin-top: 27px;
+}
+.ant-modal-footer {
+    display: none;
+
+}
+.post-modal-footer{
+    margin-left: 250px;
+}
+.post-modal-footer-save{
+    background: #064EBC 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 10px !important;
+    opacity: 1;
+    width: 76px;
+    height: 43px !important;
+}
+.post-modal-footer-cancel{
+    background: #D9D9D9 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 10px !important;
+    opacity: 1;
+    width: 76px;
+    height: 43px !important;
+    margin-left: 20px;
+}
+.post-modal-footer span{
+    text-align: left;
+    font: normal normal bold 13px/17px Segoe UI;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.ant-col-4{
+    flex: none !important;
+}
+.ant-form-item-control .ant-form-item-control-input-content{
+    margin-left: 46px ;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px;
+    opacity: 1;
+
+}
+.ant-form-item-label > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before{
+    content: none !important;
+}
+.ant-form-item-label > label::after{
+    display: inline-block;
+    margin-right: 4px !important;
+    color: #ff4d4f;
+    font-size: 14px;
+    font-family: SimSun, sans-serif;
+    line-height: 1;
+    content: '*' !important;
+}
+.post-description .ant-form-item-control-input-content{
+    margin-left: 19px;
+
+}
+.post-name .ant-form-item-control-input{
+    width: 376px ;
+}
+.post-description .ant-form-item-control-input{
+    width: 346px;
+}
